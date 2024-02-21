@@ -1,7 +1,7 @@
 # Music Style Transfer with Time-Varying Inversion of Diffusion Models
 
 ## Description
-This repo contains code, data samples and user guide for our music style transfer paper. 
+This repo contains code, data samples and user guide for our AAAI2024 paper "Music Style Transfer with Time-Varying Inversion of Diffusion Models". 
 
 ## Setup
 
@@ -71,7 +71,7 @@ We provide some samples of our data in ./images folder.
 
 
 ## Results
-We have created a static webpage to showcase the results in "../Generation_results".
+Samples are available at [MusicTI](https://lsfhuihuiff.github.io/MusicTI/).
 
 ## Evaluation
 We utilize [CLAP] (https://github.com/LAION-AI/CLAP) ( Contrastive Language-Audio Pretraining) for quantitative evaluation.
