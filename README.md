@@ -1,7 +1,7 @@
 # Music Style Transfer with Time-Varying Inversion of Diffusion Models
 
 ## Description
-This repo contains code, data samples and user guide for our AAAI2024 paper "Music Style Transfer with Time-Varying Inversion of Diffusion Models". 
+This repo contains code, data samples and user guide for our AAAI2024 paper ["Music Style Transfer with Time-Varying Inversion of Diffusion Models"](https://arxiv.org/abs/2402.13763). 
 
 ## Setup
 
