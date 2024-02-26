@@ -61,6 +61,7 @@ python scripts/txt2img.py --ddim_eta 0.0
 ```
 
 where * is the placeholder string used during inversion.
+Several model files can be downloaded from [Google drive](https://drive.google.com/file/d/1HcALhFpWexlfrQMgooBuiAXbtjyCXQjB/view?usp=drive_link).
 ### Performing conversion between mel-spectrograms and audio
 Please refer to [Riffusion project page](https://github.com/riffusion/riffusion).
 ###  Data
